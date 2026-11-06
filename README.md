@@ -43,8 +43,7 @@ I'm a passionate CSE undergraduate interested in Software Development, Artificia
 - Advanced Java and Backend Development
 
 ### 📫 Connect With Me
-- www.linkedin.com/in/hasini-gali-b887b9377
 
-- LinkedIn: [Add your LinkedIn URL](https://linkedin.com)
+- LinkedIn: www.linkedin.com/in/hasini-gali-b887b9377
 - GitHub: https://github.com/HasiniGali
 - Email: hasinigali09@gmail.com
